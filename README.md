@@ -1,5 +1,7 @@
+[Untitled-1 (1)](https://github.com/user-attachments/assets/bfe83938-f25e-47cf-96f1-1263a53fa8d9)
 
-# Biocommunicator
+# Biocommunicator!
+
 
 **Biocommunicator** is an AI-powered project designed to interpret signals from plants and animals, allowing for better understanding and interaction with the natural world. This project is in its early stages (MVP), aiming to develop a platform where machine learning models process data from living organisms and turn it into meaningful insights.
 
