@@ -1,4 +1,4 @@
-[Untitled-1 (1)](https://github.com/user-attachments/assets/bfe83938-f25e-47cf-96f1-1263a53fa8d9)
+[Untitled-1 (1)](https://github.com/user-attachments/assets/bfe83938-f25e-47cf-96f1-1263a53fa8d9 "alt text")
 
 # Biocommunicator!
 
