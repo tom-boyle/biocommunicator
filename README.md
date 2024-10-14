@@ -1,3 +1,4 @@
+
 # Biocommunicator
 
 **Biocommunicator** is a cutting-edge AI-driven platform focused on enabling communication with nature, specifically flora and fauna, through artificial intelligence. Our goal is to create tools that translate interactions between living organisms, bringing humans closer to the natural world.
@@ -62,11 +63,33 @@ Follow these steps to set up and run Biocommunicator on your local machine.
 
 ### Running Tests
 
-You can run the unit tests using:
+Biocommunicator uses Python's built-in `unittest` framework for testing. All test files are stored in the `tests/` directory.
+
+To run the tests:
 
 ```bash
 python -m unittest discover -s tests
 ```
+
+You can add new test files to the `tests/` directory following this example:
+
+```python
+# tests/test_sample.py
+
+import unittest
+
+class TestSample(unittest.TestCase):
+    def test_addition(self):
+        self.assertEqual(1 + 1, 2)
+    
+    def test_subtraction(self):
+        self.assertEqual(5 - 3, 2)
+
+if __name__ == '__main__':
+    unittest.main()
+```
+
+Each test file should follow the naming convention `test_*.py`, and be structured similarly.
 
 ## 📚 Documentation
 
