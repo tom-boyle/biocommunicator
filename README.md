@@ -1,5 +1,4 @@
-
-# Biocommunicator
+![Logo](Logo1)
 
 **Biocommunicator** is a cutting-edge AI-driven platform focused on enabling communication with nature, specifically flora and fauna, through artificial intelligence. Our goal is to create tools that translate interactions between living organisms, bringing humans closer to the natural world.
 
